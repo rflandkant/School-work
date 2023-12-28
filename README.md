@@ -1,1 +1,1 @@
-## Project latihan membuat portofolio dengan html dan bootstrap
+## Practice project to create a portfolio with HTML and Bootstrap
