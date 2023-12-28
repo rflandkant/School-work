@@ -1,1 +1,1 @@
-## Practice project to create a portfolio with HTML and Bootstrap
+## Project practice creating a portfolio with HTML and Bootstrap
